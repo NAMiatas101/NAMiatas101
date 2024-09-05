@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NAMiatas101
+- 👋 Hi, I’m @PhillySpecial.
 - 👀 I’m interested in Cars
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Projects with Java/ C Languages that I may encounter difficulities with.
+- 💞️ I’m looking to collaborate on Projects with Front-End Languages that I may encounter difficulities with.
 - 📫 How to reach me: Haroonasif15@gmail.com
 
 <!---
